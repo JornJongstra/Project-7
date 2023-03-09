@@ -1,0 +1,37 @@
+.sqr-btn {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  color: black;
+  font-size: 30px;
+}
+
+.big-sqr-btn {
+  width: 95%;
+  height: 90px;
+}
+
+.status-1 {
+  background-color: #c62943;
+}
+
+.status-2 {
+  background-color: #22c242;
+}
+
+.selected-tbl-nr {
+  font-size: 60px;
+}
+
+.selected-table-tab {
+  background-color: black;
+  color: white;
+}
+
+.tables-tab {
+  background-color: #f5f5f5;
+}
+
+.center-items {
+  text-align: center !important;
+}

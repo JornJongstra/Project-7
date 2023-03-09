@@ -1,0 +1,33 @@
+.header{
+    top: 0;
+    background-color: black;
+    border: 3px solid #ffd700;
+}
+.nav li a{
+color: #ffd700;
+}
+  /* ffd700 */
+a.nav, 
+a:hover {
+    color: #ffd700 !important;
+    text-decoration:underline;
+}
+
+.footer {
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    border: 3px solid #ffd700;
+}
+.text{
+    color: #ffd700;
+}
+.logo{
+    width: 6%;
+}
+.center {
+    position: relative;
+    float: left;
+    
+}

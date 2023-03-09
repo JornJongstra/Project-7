@@ -1,0 +1,11 @@
+.sqr-btn {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+
+.big-sqr-btn {
+  width: 95%;
+  height: 95%;
+  margin: 2.5%;
+}

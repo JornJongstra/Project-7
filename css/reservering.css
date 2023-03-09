@@ -1,0 +1,72 @@
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.btn-submit {
+    width: 100%;
+    background-color: #24E500;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-submit:hover {
+    background-color: #1DB700;
+  }
+
+.btn-del {
+    width: 100%;
+    background-color: #E32227;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-del:hover {
+    background-color: #BF181D;
+}
+
+.btn-del-overview {
+    width: 100%;
+    background-color: #E32227;
+    color: white;
+    padding: 3px 4px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-del-overview:hover {
+    background-color: #BF181D;
+}
+
+.btn-upd-overview {
+    width: 100%;
+    background-color: #0000FF;
+    color: white;
+    padding: 3px 4px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-upd-overview:hover {
+    background-color: #0000D1;
+}
+
+body {
+    background-color: aliceblue;
+}

@@ -1,0 +1,96 @@
+:root {
+    --dark: #212529 !important;
+    --dark-gray: #495057 !important;
+    --gray: #6c757d !important;
+    --light-gray: #adb5bd !important;
+
+    --blue: #2a8d96 !important;
+    --light-blue: #a8dadc !important;
+
+    --broken-white: #dad7cd !important;
+    --light-green: #a3b18a !important;
+    --green: #588157 !important;
+    --hunter-green: #3a5a40 !important;
+    --dark-green: #344e41 !important;
+}
+
+body {
+    height: 100% !important;
+}
+
+.headerIndex {
+    background-color: var(--green) !important;
+}
+
+.navBar {
+    background-color: var(--dark-green);
+    position: inherit !important;
+}
+
+.btnHunterGreen {
+    background-color: var(--hunter-green) !important;
+}
+
+.btnHunterGreen:hover {
+    background-color: white !important;
+    color: var(--hunter-green) !important;
+}
+
+.btnHunterGreen-green {
+    background-color: var(--hunter-green) !important;
+}
+
+.btnHunterGreen-green:hover {
+    background-color: var(--green) !important;
+}
+
+.btnLogin {
+    background-color: var(--broken-white) !important;
+    color: var(--dark) !important;
+}
+
+.btnLogin:hover {
+    background-color: var(--light-green) !important;
+    color: var(--dark);
+}
+
+.logoFeatures {
+    background-color: var(--hunter-green);
+}
+
+.ErrorMessage {
+    background-color: var(--light-blue) !important;
+    color: var(--blue) !important;
+    border: solid 5px var(--blue) !important;
+    padding: 10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.noTextDecoration {
+    text-decoration: none !important;
+    color: var(--dark);
+}
+
+.noTextDecoration:hover {
+    text-decoration: none !important;
+    color: var(--dark);
+}
+
+th {
+    background-color: var(--light-green) !important;
+}
+
+.sideBarButton {
+    color: black !important;
+}
+
+.sideBarButton:hover {
+    color: blue !important;
+}
+
+#datatableCustomerSignup_wrapper {
+    width: 60%;
+    margin: auto;
+}
